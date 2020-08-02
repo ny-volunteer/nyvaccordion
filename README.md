@@ -37,3 +37,7 @@ contentLinkColor -- string, accordion content link color, default is set to #222
 contentHoverLinkColor -- string, accordion content hover link color, default is set to #000000, can use "white" or other known word based color names
 
 containerSize -- string, default is set to 100% of the screen width, can use other units such as pixels, controls the size of the accordion's width
+
+# Author
+
+By OE
