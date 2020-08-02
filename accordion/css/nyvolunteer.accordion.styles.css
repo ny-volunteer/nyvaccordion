@@ -1,0 +1,74 @@
+/*
+ * change container name to whatever you name the ID in the
+ * HTML tag accordion container but they must match
+ * 
+ */
+
+#testObject {
+	
+	border-width: 1px;
+	border-color: #f00;
+	border-style: solid;
+	
+}
+div#accordion-container {
+	
+	display: block;
+	width: 100%;
+	
+}
+
+ul.accordion-object {
+	
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	
+}
+
+ul.accordion-object li{
+	
+	display: block;
+	
+}
+
+ul.accordion-object > li > div.accordion-anchor {
+	
+	padding: 10px;
+	border: 1px solid #000;
+	border-radius: 5px;
+	
+}
+
+ul.accordion-object > li > div.accordion-anchor:hover {
+	
+	background-color: #acacac;
+	transition: 0.35s;
+		
+}
+
+ul.accordion-object > li > div.accordion-anchor a.accordion-link{
+	
+	display: block;
+	text-decoration: none;
+	font-weight: 700;
+	font-family: arial, helvetica, sans-serif;
+	
+}
+
+ul.accordion-object > li > div.accordion-anchor a.accordion-link{
+	
+	display: block;
+	text-decoration: none;
+	font-weight: 700;
+	font-family: arial, helvetica, sans-serif;
+	
+}
+
+ul.accordion-object > li div.accordion-item {
+	
+	display: none;
+	border: 1px solid #000;
+	padding: 5px;
+	
+}
