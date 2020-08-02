@@ -2,6 +2,14 @@
 
 Another accordion plugin for jQuery
 
+# Requirements
+
+Requires jQuery, minimum 1.12.4
+
+# Usage
+
+$(containerID).accordionMaker(Your_Opts);
+
 # Options
 
 isDebug -- boolean, default is set to false
