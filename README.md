@@ -34,6 +34,10 @@ hoverLinkColor -- string, accordion label link color, default is set to #00ff00,
 
 contentBorderSize -- string, size of the border of the accordion, default is set to 1px, can use other units, for examaple 1rem
 
+# Author
+
+OE
+
 contentBorderStyle -- string, accordion border style, default is set to solid, can use "dashed" or other known border-style CSS attributes
 
 contentBgColor -- string, accordion content background color, default is set to #ffffff, can use "white" or other known word based color names
